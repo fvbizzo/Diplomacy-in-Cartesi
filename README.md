@@ -1,1 +1,0 @@
-# Diplomacy-in-Cartesi
